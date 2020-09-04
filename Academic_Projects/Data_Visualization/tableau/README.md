@@ -1,5 +1,4 @@
- ***To visualize and analyse MplsStops.xlsx dataset which contains data pertaining to 34,178 stops made by
-Minneapolis Police in the year 2017 using Tableau***
+ # To visualize and analyse MplsStops.xlsx dataset which contains data pertaining to 34,178 stops made by Minneapolis Police in the year 2017 using Tableau 
  
  
 **Context** 
@@ -40,3 +39,5 @@ iii). Source – Visualization 3, Targets – Visualizations 4, 5, and 6.
 **Story
 Prepare a Story, presenting four meaningful insights extracted from visualizations or
 dashboard.**
+
+
